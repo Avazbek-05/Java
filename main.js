@@ -54,3 +54,8 @@
 // } else {
 //   console.log("butun son emas ");
 // }
+
+//8-masala
+
+// const arr = [arr1, arr2, arr3];
+// console.log(Math.round((arr[0] + arr[1] + arr[3]) / 3));
